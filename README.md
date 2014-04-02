@@ -1,7 +1,7 @@
 Ext.filterField
 ===============
 
-Toolbar input field for better live grid filtering
+Toolbar input field for better live grid filtering in ExtJS 4x
 
 
 
