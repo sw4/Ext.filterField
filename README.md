@@ -15,16 +15,16 @@ Use:
 Config: 
 --
 ```
-`emptyText: 'Filter...'` // text to display when field is empty
-`grid: null`  // grid object/ref to filter- if field is within grid component (e.g. tbar/bbar), works out grid automatically
-`buttons: true` // whether to include manual clear/filter buttons
-`filterOnType: false` // whether to filter on keypress or when user presses enter
+emptyText: 'Filter...' // text to display when field is empty
+grid: null  // grid object/ref to filter- if field is within grid component (e.g. tbar/bbar), works out grid automatically
+buttons: true // whether to include manual clear/filter buttons
+filterOnType: false // whether to filter on keypress or when user presses enter
 ```
 Methods:
 --
 ```
-`setValue(value)` // sets filter field value and filters
-`getValue()` // gets filter field value
+setValue(value) // sets filter field value and filters
+getValue() // gets filter field value
 ```
 Events:
 --
